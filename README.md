@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saurabh94
 - 👀 I’m interested in Technology and Programming
-- 🌱 I’m currently learning Programming and Fitness
+- 🌱 I’m currently learning Basics of Programming
 - 💞️ I’m looking to collaborate on Accelerating Coding skills
 - 📫 How to reach me sabgyl08@gmail.com
 
